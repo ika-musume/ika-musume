@@ -17,3 +17,16 @@
 ### Publication
 **S. Kim**, M. Kim, C. Park, H. Park, S. Kim, T. Song and W. Song, "NPUWattch: ML-based Power, Area, and Timing Modeling for Neural Accelerators," *IEEE Inernational Symposium on High Performance Computer Architecture*, 2026 (accepted)
 
+### Popular Open-source Projects
+#### IP cores
+* YM2151 - [IKAOPM](https://github.com/ika-musume/IKAOPM)
+* YM2413 - [IKAOPLL](https://github.com/ika-musume/IKAOPLL) **(ttsky25b [tapeout](https://github.com/rejunity/tt-ym2413-IKAOPLL))**
+* SCC - [IKASCC](https://github.com/ika-musume/IKASCC)
+* TMS32010 - [IKA32010](https://github.com/ika-musume/IKA32010)
+* ... and many [ASICs](https://github.com/ika-musume/ASIC_RE)
+
+#### Emulator cores
+
+* Jaleco - [Psychic 5](https://github.com/MiSTer-devel/Arcade-Psychic5_MiSTer)
+* Konami - [Salamander](https://github.com/MiSTer-devel/Arcade-Salamander_MiSTer)
+* Konami - [Bubble System](https://github.com/MiSTer-devel/Arcade-BubSys_MiSTer) and its [ROM variant](https://github.com/MiSTer-devel/Arcade-BubSysROM_MiSTer)
