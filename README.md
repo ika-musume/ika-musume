@@ -26,7 +26,7 @@
 * ... and many [ASICs](https://github.com/ika-musume/ASIC_RE)
 
 #### Emulator cores
-
+* Sega - [Super Locomotive](https://github.com/MiSTer-devel/Arcade-SuprLoco_MiSTer)
 * Jaleco - [Psychic 5](https://github.com/MiSTer-devel/Arcade-Psychic5_MiSTer)
 * Konami - [Salamander](https://github.com/MiSTer-devel/Arcade-Salamander_MiSTer)
 * Konami - [Bubble System](https://github.com/MiSTer-devel/Arcade-BubSys_MiSTer) and its [ROM variant](https://github.com/MiSTer-devel/Arcade-BubSysROM_MiSTer)
