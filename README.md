@@ -15,7 +15,7 @@
 *M.S. candidate in Electrical & Electronic Engineering* (Mar. 2025 - current)
 
 ### Publication
-**S. Kim**, M. Kim, C. Park, H. Park, S. Kim, T. Song and W. Song, "NPUWattch: ML-based Power, Area, and Timing Modeling for Neural Accelerators," *IEEE Inernational Symposium on High Performance Computer Architecture*, 2026 (accepted)
+**S. Kim**, M. Kim, C. Park, H. Park, S. Kim, T. Song and W. Song, "NPUWattch: ML-based Power, Area, and Timing Modeling for Neural Accelerators," *IEEE International Symposium on High-Performance Computer Architecture*, 2026 (accepted)
 
 ### Popular Open-source Projects
 #### IP cores
