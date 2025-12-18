@@ -19,15 +19,21 @@
 
 ### Popular Open-source Projects
 #### IP cores
-* **CPU** *TMS32010* - [IKA32010](https://github.com/ika-musume/IKA32010)
-* **CPU** *uPD78C11* - [IKA87AD](https://github.com/ika-musume/IKA87AD)
-* **Sound** *YM2151* - [IKAOPM](https://github.com/ika-musume/IKAOPM)
-* **Sound** *YM2413* - [IKAOPLL](https://github.com/ika-musume/IKAOPLL) **(ttsky25b [tapeout](https://github.com/rejunity/tt-ym2413-IKAOPLL))**
-* **Sound** *Konami SCC* - [IKASCC](https://github.com/ika-musume/IKASCC)
+* YM2151 - [IKAOPM](https://github.com/ika-musume/IKAOPM) **(FPGA proven)**
+* YM2413 - [IKAOPLL](https://github.com/ika-musume/IKAOPLL) **(ttsky25b [tapeout](https://github.com/rejunity/tt-ym2413-IKAOPLL))**
+* SCC - [IKASCC](https://github.com/ika-musume/IKASCC) **(FPGA proven)**
+* TMS32010 - [IKA32010](https://github.com/ika-musume/IKA32010) **(FPGA proven)**
 * ... and many [ASICs](https://github.com/ika-musume/ASIC_RE)
 
-#### Emulator cores
+#### MiSTer Hardware emulator cores
 * Sega - [Super Locomotive](https://github.com/MiSTer-devel/Arcade-SuprLoco_MiSTer)
 * Jaleco - [Psychic 5](https://github.com/MiSTer-devel/Arcade-Psychic5_MiSTer)
 * Konami - [Salamander](https://github.com/MiSTer-devel/Arcade-Salamander_MiSTer)
 * Konami - [Bubble System](https://github.com/MiSTer-devel/Arcade-BubSys_MiSTer) and its [ROM variant](https://github.com/MiSTer-devel/Arcade-BubSysROM_MiSTer)
+
+
+#### Under construction
+* uPD78C11 - [IKA87AD](https://github.com/ika-musume/IKA87AD)
+* V9958 - [IKA9958](https://github.com/ika-musume/IKA9958)
+* Jaleco - City Connection
+* Taito - Rainbow Islands
