@@ -27,8 +27,8 @@
 * SCC - [IKASCC](https://github.com/ika-musume/IKASCC) **(FPGA proven)**
 #### 🧮 CPU 
 * TMS32010 - [IKA32010](https://github.com/ika-musume/IKA32010) **(FPGA proven)**
-* uPD78C11 - [IKA87AD](https://github.com/ika-musume/IKA87AD)
-* SH3 - [HS3](https://github.com/ika-musume/HS3) 
+* uPD87AD - [IKA87AD](https://github.com/ika-musume/IKA87AD)
+* SuperH-3 - [HS3](https://github.com/ika-musume/HS3) **(FPGA proven)**
 #### 🔲 ASICs
 * [ASICs](https://github.com/ika-musume/ASIC_RE)
 #### 🖼️ PPU/GPU
