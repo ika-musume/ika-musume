@@ -21,23 +21,23 @@
 "NPU System Performance, Power, and Area Modeling with PyTorchSim and NPUWattch", Tool Demonstration, *IEEE/ACM International Symposium on Microarchitecture (MICRO)* Workshops & Tutorials, Oct. 2026. (planned)
 
 ### Popular Open-source Projects
-#### 🎵 Sound Generator
+#### 🧮 CPU 
+* SuperH-3 - [HS3](https://github.com/ika-musume/HS3) **(FPGA proven)**
+* TMS32010 - [IKA32010](https://github.com/ika-musume/IKA32010) **(FPGA proven)**
+* uPD87AD - [IKA87AD](https://github.com/ika-musume/IKA87AD) **(FPGA proven)**
+#### 🔲 ASICs
+* [ASICs](https://github.com/ika-musume/ASIC_RE)
+#### 🎵 Sound
 * YM2151 - [IKAOPM](https://github.com/ika-musume/IKAOPM) **(FPGA proven)**
 * YM2413 - [IKAOPLL](https://github.com/ika-musume/IKAOPLL) **(ttsky25b [tapeout](https://github.com/rejunity/tt-ym2413-IKAOPLL))**
 * SCC - [IKASCC](https://github.com/ika-musume/IKASCC) **(FPGA proven)**
-#### 🧮 CPU 
-* TMS32010 - [IKA32010](https://github.com/ika-musume/IKA32010) **(FPGA proven)**
-* uPD87AD - [IKA87AD](https://github.com/ika-musume/IKA87AD)
-* SuperH-3 - [HS3](https://github.com/ika-musume/HS3) **(FPGA proven)**
-#### 🔲 ASICs
-* [ASICs](https://github.com/ika-musume/ASIC_RE)
 #### 🖼️ PPU/GPU
 * V9958 - [IKA9958](https://github.com/ika-musume/IKA9958) **under construction**
 #### 🎮 MiSTer Hardware emulator cores
-* Sega - [Super Locomotive](https://github.com/MiSTer-devel/Arcade-SuprLoco_MiSTer)
-* Jaleco - [Psychic 5](https://github.com/MiSTer-devel/Arcade-Psychic5_MiSTer)
-* Konami - [Salamander](https://github.com/MiSTer-devel/Arcade-Salamander_MiSTer)
+* Cave - [CV1000](https://github.com/ika-musume/ikacore_CV1k)
 * Konami - [Bubble System](https://github.com/MiSTer-devel/Arcade-BubSys_MiSTer) and its [ROM variant](https://github.com/MiSTer-devel/Arcade-BubSysROM_MiSTer)
-* Cave - [CV1000](https://github.com/ika-musume/ikacore_CV1k) **under construction**
+* Konami - [Salamander](https://github.com/MiSTer-devel/Arcade-Salamander_MiSTer)
+* Jaleco - [Psychic 5](https://github.com/MiSTer-devel/Arcade-Psychic5_MiSTer)
+* Sega - [Super Locomotive](https://github.com/MiSTer-devel/Arcade-SuprLoco_MiSTer)
 * Jaleco - City Connection
 * Taito - Rainbow Islands
