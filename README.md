@@ -18,7 +18,7 @@
 **S. Kim**, M. Kim, C. Park, H. Park, S. Kim, T. Song and W. Song, "NPUWattch: ML-based Power, Area, and Timing Modeling for Neural Accelerators," *IEEE International Symposium on High-Performance Computer Architecture (HPCA)*, Jan. 2026, pp. 1-14. [[Paper](https://ieeexplore.ieee.org/document/11408488/)]
 
 ### Research Demonstrations
-"NPU System Performance, Power, and Area Modeling with PyTorchSim and NPUWattch," Tool Demonstration, IEEE/ACM International Symposium on Microarchitecture (MICRO), Workshops & Tutorials, Oct. 2026. Scheduled.
+"NPU System Performance, Power, and Area Modeling with PyTorchSim and NPUWattch," Tool Demonstration, *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, Workshops & Tutorials, Oct. 2026. Scheduled.
 
 ### Popular Open-source Projects
 #### 🎮 MiSTer Hardware emulator cores
