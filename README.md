@@ -14,13 +14,21 @@
 * Yonsei University:</br>
 *Ph.D. student in Electrical & Electronic Engineering* (Mar. 2025 - current)
 
-### Publication
+### Publications
 **S. Kim**, M. Kim, C. Park, H. Park, S. Kim, T. Song and W. Song, "NPUWattch: ML-based Power, Area, and Timing Modeling for Neural Accelerators," *IEEE International Symposium on High-Performance Computer Architecture (HPCA)*, Jan. 2026, pp. 1-14. [[Paper](https://ieeexplore.ieee.org/document/11408488/)]
 
-### Research Demonstration
-"NPU System Performance, Power, and Area Modeling with PyTorchSim and NPUWattch", Tool Demonstration, *IEEE/ACM International Symposium on Microarchitecture (MICRO)* Workshops & Tutorials, Oct. 2026. (planned)
+### Research Demonstrations
+"NPU System Performance, Power, and Area Modeling with PyTorchSim and NPUWattch," Tool Demonstration, IEEE/ACM International Symposium on Microarchitecture (MICRO), Workshops & Tutorials, Oct. 2026. Scheduled.
 
 ### Popular Open-source Projects
+#### 🎮 MiSTer Hardware emulator cores
+* **Cave - [CV1000](https://github.com/ika-musume/ikacore_CV1k) (2004)**
+* Jaleco - [Psychic 5](https://github.com/MiSTer-devel/Arcade-Psychic5_MiSTer) (1987)
+* Konami - [Salamander](https://github.com/MiSTer-devel/Arcade-Salamander_MiSTer) (1986)
+* Konami - [Bubble System](https://github.com/MiSTer-devel/Arcade-BubSys_MiSTer) and its [ROM variant](https://github.com/MiSTer-devel/Arcade-BubSysROM_MiSTer) (1985)
+* Sega - [Super Locomotive](https://github.com/MiSTer-devel/Arcade-SuprLoco_MiSTer) (1982)
+* Jaleco - City Connection
+* Taito - Rainbow Islands
 #### 🧮 CPU 
 * SuperH-3 - [HS3](https://github.com/ika-musume/HS3) **(FPGA proven)**
 * TMS32010 - [IKA32010](https://github.com/ika-musume/IKA32010) **(FPGA proven)**
@@ -33,11 +41,3 @@
 * SCC - [IKASCC](https://github.com/ika-musume/IKASCC) **(FPGA proven)**
 #### 🖼️ PPU/GPU
 * V9958 - [IKA9958](https://github.com/ika-musume/IKA9958) **under construction**
-#### 🎮 MiSTer Hardware emulator cores
-* Cave - [CV1000](https://github.com/ika-musume/ikacore_CV1k)
-* Konami - [Bubble System](https://github.com/MiSTer-devel/Arcade-BubSys_MiSTer) and its [ROM variant](https://github.com/MiSTer-devel/Arcade-BubSysROM_MiSTer)
-* Konami - [Salamander](https://github.com/MiSTer-devel/Arcade-Salamander_MiSTer)
-* Jaleco - [Psychic 5](https://github.com/MiSTer-devel/Arcade-Psychic5_MiSTer)
-* Sega - [Super Locomotive](https://github.com/MiSTer-devel/Arcade-SuprLoco_MiSTer)
-* Jaleco - City Connection
-* Taito - Rainbow Islands
