@@ -1,4 +1,4 @@
-## Raki (Sehyeon Kim)
+## Sehyeon "Raki" Kim
 
 ### Interests
 * **Squid girl**
